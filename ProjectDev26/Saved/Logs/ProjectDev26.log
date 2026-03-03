@@ -1356,3 +1356,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.03-16.25.45:407][584]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.03.03-16.25.45:407][584]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2026.03.03-16.25.45:407][584]LogShaderCompilers: Display: ================================================
+[2026.03.03-16.28.15:098][ 33]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 337.617432
+[2026.03.03-16.28.16:098][ 36]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-16.28.16:098][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 338.283905, Update Interval: 358.672455
