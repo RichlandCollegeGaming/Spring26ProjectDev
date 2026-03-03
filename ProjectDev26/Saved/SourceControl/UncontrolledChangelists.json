@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/Weapons/Pistol/Materials/MI_Weapon_Pistol.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/Weapons/Rifle/M_Weapon.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Map/GameMap.umap"
+			]
+		}
+	]
+}
