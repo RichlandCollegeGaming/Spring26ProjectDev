@@ -5,14 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/Weapons/Pistol/Materials/MI_Weapon_Pistol.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Map/GameMap.umap",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/Bed.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/Chocolate.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/Fridge.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/RubberDuck.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/SoapBar.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/Stove2.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/ToyBlocks.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/ToyBox.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/standardSurface1.uasset",
+				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Models/standardSurface1_002.uasset",
 				"C:/Users/elmo/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Blueprint/Jose_Mendoza/d.uasset",
 				"C:/Users/elmo/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Blueprint/Jose_Mendoza/NewBlueprint.uasset",
 				"C:/Users/elmo/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Blueprint/Jose_Mendoza/Interaction.uasset",
 				"C:/Users/elmo/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Blueprint/Jose_Mendoza/InteractionComponent.uasset",
 				"C:/Users/elmo/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Blueprint/Jose_Mendoza/NewWidgetBlueprint.uasset",
-				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/Weapons/Pistol/Materials/MI_Weapon_Pistol.uasset",
-				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/ProjectDev2/Map/GameMap.umap",
-				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/LevelPrototyping/Meshes/SM_Cube.uasset",
 				"C:/Users/maxh4/Documents/GitHub/Spring26ProjectDev/ProjectDev26/Content/Weapons/Rifle/M_Weapon.uasset"
 			]
 		}
